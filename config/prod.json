@@ -1,0 +1,4 @@
+{
+  "apiUrl": "http://coffeechat.mikeindevelopment.com:8080/coffee-chat-api/v1",
+  "webRootPath": "/"
+}
